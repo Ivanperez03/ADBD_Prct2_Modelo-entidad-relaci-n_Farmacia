@@ -64,7 +64,7 @@ Se incluyen descripciones de entidades, atributos, relaciones, cardinalidades y 
   - `RecetaMedica`
 - **Restricción:** Disjunta y total (todo medicamento debe ser uno de los dos tipos).
 
-### **ISA Cliente** (Cliente)
+### (Cliente)
 - Especialización en dos subtipos:
   - `Cliente_credito`
   - Cliente sin crédito (implícito).
